@@ -1,0 +1,12 @@
+# Core dependencies
+setproctitle
+psutil
+omegaconf
+nest_asyncio
+
+# Discord libraries
+discord.py
+discord.py-self
+
+# Character AI client
+PyCharacterAI
